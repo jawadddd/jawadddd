@@ -39,7 +39,6 @@ I'm a passionate software engineer who loves building scalable backend systems, 
 - **Investment & Finance Platforms**  
   Advanced filtering, caching, auditing, subscription flows, and real-time dashboards.
 
-_(Add more if you want—I can format them beautifully.)_
 
 ---
 
