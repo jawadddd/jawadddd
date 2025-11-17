@@ -45,16 +45,16 @@ _(Add more if you want—I can format them beautifully.)_
 
 ## 📈 GitHub Stats
 
-![Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadhaider&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadhaider&layout=compact&theme=tokyonight)
+![Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadddd&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadddd&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Your Link](#)
-- 🌐 Portfolio: [Your Website](#)
-- 📧 Email: your@email.com
+- 💼 LinkedIn: [Your Link]((https://www.linkedin.com/in/jawad-haider-5059ba259/)
+- 🌐 Portfolio: [Your Website](https://portfolio-jawad.vercel.app/)
+- 📧 Email: jawadhaider682@gmail.com
 
 ---
 
