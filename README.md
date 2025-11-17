@@ -52,7 +52,7 @@ _(Add more if you want—I can format them beautifully.)_
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: ((https://www.linkedin.com/in/jawad-haider-5059ba259/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/jawad-haider-5059ba259/)
 - 🌐 Portfolio: (https://portfolio-jawad.vercel.app/)
 - 📧 Email: jawadhaider682@gmail.com
 
