@@ -32,10 +32,18 @@ I'm a passionate software engineer who loves building scalable backend systems, 
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 - **Automated Parking System (APS)**  
   End-to-end smart parking solution with mobile apps, admin portals, IoT integration, analytics, and predictions.  
-  Technologies: MERN, Flutter, Mapbox, Python, Laravel, IoT.
+  Technologies: MERN, Flutter, Mapbox, Python, IoT.
+
+- **TheCryptoHub**  
+  A Web3-based platform connecting early-stage crypto startups with investors, including JWT security, authentication, and automated email services.
+  Technologies: Tech: React.js, Node.js, Express.js, MongoDB, JWT, Nodemailer, Hostinger Deployment, Tailwind CSS
+
+- **Chatting Website — End-to-End Encrypted**  
+  Real-time encrypted messaging system using AES, DES, Blowfish, and Socket.io for secure communication.  
+  Technologies: MERN, Encryption Techniques(AES, DES, Blowfish).  
 
 ---
 
