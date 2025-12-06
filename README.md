@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jawad Haider
 
-### 🚀 Software Engineer | Backend Developer | Laravel Enthusiast
+### 🚀 Software Engineer | Backend Developer | Laravel | MERN
 
-I'm a passionate software engineer who loves building scalable backend systems, optimizing performance, and crafting clean, maintainable code. Most of my work revolves around **PHP (Laravel)**, **REST APIs**, **backend architecture**, and modern development workflows.
+I'm a passionate software engineer who loves building scalable backend systems, optimizing performance, and crafting clean, maintainable code. Most of my work revolves around **PHP (Laravel)**, **MERN** , **REST APIs**, **backend architecture**, and modern development workflows.
 
 ---
 
@@ -41,9 +41,9 @@ I'm a passionate software engineer who loves building scalable backend systems, 
 
 ## 📈 GitHub Stats
 
-![Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadddd&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadddd&layout=compact&theme=tokyonight)
-
+![GitHub followers](https://img.shields.io/github/followers/jawadddd?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/jawadddd?label=Stars&style=social)
+![GitHub forks](https://img.shields.io/github/forks/jawadddd?label=Forks&style=social)
 ---
 
 ## 🤝 Connect With Me
