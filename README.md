@@ -41,10 +41,10 @@ I'm a passionate software engineer who loves building scalable backend systems, 
 
 ## 📈 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/jawadddd?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/jawadddd?label=Stars&style=social)
 ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jawadddd&theme=tokyonight)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jawadddd&theme=tokyonight)
+![GitHub followers](https://img.shields.io/github/followers/jawadddd?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/jawadddd?label=Stars&style=social)
 ---
 
 ## 🤝 Connect With Me
