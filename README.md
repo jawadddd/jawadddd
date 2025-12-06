@@ -9,21 +9,22 @@ I'm a passionate software engineer who loves building scalable backend systems, 
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**
-- PHP (Laravel), JavaScript (Node.js), Flutter (Basics)
+- Laravel, MERN Stack, HTML, CSS, Bootstrap
+- Java, Python, C/C++
+  
+**Databases**
 - SQL, MySQL, MongoDB
-- HTML, CSS, Bootstrap
-
+  
 **Tools & Technologies**
-- Docker, Git/GitHub, CI/CD  
-- Redis, Queue Workers  
-- AWS S3, CloudFront, RDS  
-- REST APIs, Webhooks, Microservices  
-- Testing: PHPUnit, Pest
+- Git, Bitbucket
+- Railway, Vercel deployments
+- Redis, Queue Workers      
+- Testing: PHPUnit
 
 ---
 
 ## 🔥 What I Do
-- Build robust backend systems using **Laravel**
+- Build robust backend systems using **Laravel/Mern**
 - Write optimized database queries & handle large-scale data
 - Create RESTful APIs consumed by mobile & web apps
 - Implement caching, workers, and advanced architecture patterns
@@ -31,14 +32,10 @@ I'm a passionate software engineer who loves building scalable backend systems, 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 - **Automated Parking System (APS)**  
   End-to-end smart parking solution with mobile apps, admin portals, IoT integration, analytics, and predictions.  
   Technologies: MERN, Flutter, Mapbox, Python, Laravel, IoT.
-
-- **Investment & Finance Platforms**  
-  Advanced filtering, caching, auditing, subscription flows, and real-time dashboards.
-
 
 ---
 
