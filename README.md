@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jawad Haider
 
-### 🚀 Software Engineer | Backend Developer | Laravel | MERN
+### 🚀 Software Engineer | Laravel | MERN
 
 I'm a passionate software engineer who loves building scalable backend systems, optimizing performance, and crafting clean, maintainable code. Most of my work revolves around **PHP (Laravel)**, **MERN** , **REST APIs**, **backend architecture**, and modern development workflows.
 
